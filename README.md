@@ -1,2 +1,2 @@
 # hello-world
-A short description of me doing a tutorial
+In the editor, write a bit about yourself.
