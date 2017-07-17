@@ -1,2 +1,2 @@
 # hello-world
-In the editor, write a bit about yourself.
+"In web trust" is what a heathan would say.
